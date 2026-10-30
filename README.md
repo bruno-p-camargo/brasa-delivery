@@ -1,11 +1,7 @@
 # 🔥 Brasa Delivery
 
 Protótipo de aplicativo de delivery de comida feito com **React Native + Expo**, que consome dados da API
-[`apifakedelivery.vercel.app`](https://apifakedelivery.vercel.app) e segue um layout prototipado no **Figma**.
-
-> Trabalho acadêmico com quatro etapas: **prototipação (Figma)** → **front-end (telas)** → **consumo de dados por API** → **apresentação**.
-
-**Autor(es):** _preencher com nome(s)_ · **Disciplina/Turma:** _preencher_
+[`apifakedelivery.vercel.app`](https://apifakedelivery.vercel.app) .
 
 ---
 
