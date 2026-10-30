@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Brasa Delivery",
+    "slug": "brasa-delivery-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#ffffff",
+    "ios": { "supportsTablet": false },
+    "android": { "backgroundColor": "#ffffff" }
+  }
+}
